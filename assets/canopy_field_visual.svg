@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf7ff"/><stop offset="1" stop-color="#f3fff4"/></linearGradient><linearGradient id="road" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#dce4eb"/><stop offset="1" stop-color="#c8d4df"/></linearGradient></defs>
+<rect width="1400" height="420" rx="28" fill="url(#sky)"/><circle cx="1130" cy="86" r="45" fill="#ffe9a8"/><path d="M0 300 Q350 235 690 295 T1400 270 V420 H0Z" fill="#dff3df"/><path d="M0 344 Q350 285 700 342 T1400 315 V420 H0Z" fill="url(#road)"/>
+<path d="M60 365 C360 300 590 360 870 322 S1200 275 1380 315" fill="none" stroke="#ffffff" stroke-width="8" stroke-dasharray="22 18"/>
+<g stroke="#725333" stroke-width="12" fill="#76b66c"><path d="M210 315 Q205 220 214 155"/><circle cx="210" cy="135" r="72"/><circle cx="154" cy="159" r="55"/><circle cx="265" cy="158" r="56"/></g>
+<g stroke="#725333" stroke-width="10" fill="#59a86a"><path d="M510 330 Q505 250 515 195"/><circle cx="512" cy="177" r="64"/><circle cx="460" cy="198" r="48"/><circle cx="565" cy="198" r="49"/></g>
+<g stroke="#725333" stroke-width="12" fill="#4f9e68"><path d="M850 330 Q845 205 855 130"/><circle cx="850" cy="108" r="83"/><circle cx="775" cy="145" r="59"/><circle cx="925" cy="145" r="61"/></g>
+<g stroke="#725333" stroke-width="10" fill="#82c776"><path d="M1150 335 Q1147 250 1155 190"/><circle cx="1150" cy="172" r="66"/><circle cx="1090" cy="194" r="48"/><circle cx="1212" cy="193" r="49"/></g>
+<g fill="#fff" opacity=".85"><rect x="70" y="55" width="245" height="54" rx="27"/><text x="100" y="90" font-family="Arial" font-size="22" font-weight="700" fill="#2c5b4a">LOCAL CANOPY VIEW</text></g>
+</svg>
